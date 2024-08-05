@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Este projeto tem como objetivo utilizar o AWS SageMaker Canvas para prever a quantidade de estoque necessária, considerando variáveis como preços promocionais e datas de feriados no Brasil. O foco está em analisar e melhorar a precisão das previsões para auxiliar na gestão eficiente do estoque.
+Este projeto tem como objetivo utilizar o AWS SageMaker Canvas para prever a quantidade de estoque, considerando variáveis como preços promocionais e datas de feriados no Brasil. O foco está em analisar e melhorar a precisão das previsões para auxiliar na gestão eficiente do estoque.
 
 ## 1. Selecionar Dataset
 
