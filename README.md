@@ -1,6 +1,6 @@
 ---
 
-# Previsão de Estoque Inteligente na AWS com SageMaker Canvas
+# Previsão de Estoque na AWS com SageMaker Canvas
 
 ## Introdução
 
