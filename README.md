@@ -1,5 +1,3 @@
-Aqui está o README baseado nas informações fornecidas:
-
 ---
 
 # Previsão de Estoque Inteligente na AWS com SageMaker Canvas
